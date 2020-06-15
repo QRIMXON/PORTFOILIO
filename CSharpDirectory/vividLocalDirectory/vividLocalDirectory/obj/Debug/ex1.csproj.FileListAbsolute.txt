@@ -1,0 +1,9 @@
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\bin\Debug\ex1.exe.config
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\bin\Debug\ex1.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\bin\Debug\ex1.pdb
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.Form1.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.Properties.Resources.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex1\obj\Debug\ex1.pdb

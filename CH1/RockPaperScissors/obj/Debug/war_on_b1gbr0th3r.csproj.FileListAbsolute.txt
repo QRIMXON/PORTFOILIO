@@ -1,4 +1,0 @@
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\RockPaperScissors\bin\Debug\RockPaperScissors.exe
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\RockPaperScissors\obj\Debug\RockPaperScissors.exe
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

@@ -1,0 +1,9 @@
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\bin\Debug\Test2.exe.config
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\bin\Debug\Test2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\bin\Debug\Test2.pdb
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH12\CH12\Test2\obj\Debug\Test2.pdb

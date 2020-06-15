@@ -1,6 +1,0 @@
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\bin\Debug\b1gbr0th3r.exe.config
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\bin\Debug\b1gbr0th3r.exe
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\bin\Debug\b1gbr0th3r.pdb
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\obj\Debug\b1gbr0th3r.exe
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\obj\Debug\b1gbr0th3r.pdb
-C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH1\b1gbr0th3r\obj\Debug\b1gbr0th3r.csprojAssemblyReference.cache

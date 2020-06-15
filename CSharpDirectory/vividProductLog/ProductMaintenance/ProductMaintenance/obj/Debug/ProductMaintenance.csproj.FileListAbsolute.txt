@@ -1,0 +1,29 @@
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\bin\Debug\ProductMaintenance.exe.config
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\bin\Debug\ProductMaintenance.exe
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\bin\Debug\ProductMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.frmProductMain.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.exe
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaint\obj\Debug\ProductMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMain.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMain.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 14\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb

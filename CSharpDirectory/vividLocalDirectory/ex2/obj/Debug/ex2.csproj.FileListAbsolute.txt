@@ -1,0 +1,5 @@
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex2\bin\Debug\ex2.exe.config
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex2\bin\Debug\ex2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex2\bin\Debug\ex2.pdb
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex2\obj\Debug\ex2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Hands On Test\CH8\ex2\obj\Debug\ex2.pdb
