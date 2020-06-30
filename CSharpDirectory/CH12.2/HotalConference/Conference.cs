@@ -57,7 +57,7 @@ namespace Lab2
 
        
 
-        public string Display() => $"{_attendees} attendees from {_groupName} on the date of {_startDate} in Room #{_roomNumber} \n";
+        public string Display() => $" |Client: {_groupName}| Project Date: {_startDate}| Location: {_roomNumber}| Price: ${_attendees}|  \n";
     }
 }
 

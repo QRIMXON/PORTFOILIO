@@ -1,0 +1,9 @@
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\bin\Debug\Lab1.exe.config
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\bin\Debug\Lab1.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\bin\Debug\Lab1.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\Lab1.Form1.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\ResturantOrder.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\Lab1.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\Lab1.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12.2\ResturantOrder\obj\Debug\ResturantOrder.csprojAssemblyReference.cache

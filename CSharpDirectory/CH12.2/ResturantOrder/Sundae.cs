@@ -17,8 +17,8 @@ namespace Lab1
     public class Sundae
     {
         //Constants
-        public const double BASE_PRICE = 4.50;
-        public const double TOPPING_PRICE = .5;
+        public const double BASE_PRICE = 4.53;
+        public const double TOPPING_PRICE = .51;
 
         //instance fields
         private SundaeTopping[] _toppings = new SundaeTopping[2];

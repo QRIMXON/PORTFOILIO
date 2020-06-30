@@ -53,3 +53,11 @@ C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 04\InvoiceTot
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.exe
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\InvoiceEnhanced\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\InvoiceTotal.pdb

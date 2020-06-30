@@ -18,7 +18,7 @@ namespace Lab1
     {
         //Instance Fields
         public const double BASE_PRICE = 1.75;
-        public const double FLAVOR_PRICE = .15;
+        public const double FLAVOR_PRICE = .11;
         private SodaFlavor _flavor;
         private double _price;
 

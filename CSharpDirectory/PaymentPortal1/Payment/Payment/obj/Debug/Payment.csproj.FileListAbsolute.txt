@@ -57,3 +57,13 @@ C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 10\Payment\Pa
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
 C:\Users\qrimx\Desktop\all-coursework-C#\Book applications\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.csprojAssemblyReference.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\PaymentPortal1\Payment\Payment\obj\Debug\Payment.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vividATM 1.0", "vividATM 1.0.csproj", "{CE1D8DBC-2FE7-4257-A80A-470D9098CDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1D8DBC-2FE7-4257-A80A-470D9098CDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1D8DBC-2FE7-4257-A80A-470D9098CDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1D8DBC-2FE7-4257-A80A-470D9098CDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1D8DBC-2FE7-4257-A80A-470D9098CDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B393CDE-8717-419D-A665-740D037F3A1F}
+	EndGlobalSection
+EndGlobal

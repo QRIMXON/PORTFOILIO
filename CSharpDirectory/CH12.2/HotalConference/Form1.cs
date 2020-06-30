@@ -37,7 +37,7 @@ namespace Lab2
                     attendCount += Convert.ToInt32(txtAttend.Text);
 
                     lblRoomCount.Text = $"{myConferences.Count.ToString()} /20";
-                    lblAttendCount.Text = $"{attendCount}";
+                    lblAttendCount.Text = $"${attendCount}";
 
                 }
                 if (myConferences.Count >= 21)
@@ -47,31 +47,76 @@ namespace Lab2
               
 
             }
-
+            txtGroup.Text = "";
+            txtAttend.Text = "";
+            txtRoom.Text = "";
+            txtStart.Text = "";
             
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
             int position3 = -1;
+           
+
 
             DateTime begin = DateTime.Parse(txtBegin.Text);
             DateTime end = DateTime.Parse(txtEnd.Text);
+           
 
 
             for (int i = 0; i < myConferences.Count; i++)
+            {
 
 
 
                 if (DateTime.Parse(myConferences[i].StartDate) >= begin && DateTime.Parse(myConferences[i].StartDate) <= end)
                     position3 = i;
 
-                    lblOutput.Text += $"{myConferences[position3].Display()}";
+                lblOutput.Text += $"{myConferences[position3].Display()}";
+
+
+               
+
+
+
+
+            txtBegin.Text = "";
+                txtEnd.Text = "";
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lblOutput.Text = "";
+            lblNameOutput.Text = "";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+
+            int position4 = -1;
+            string nameSearch = txtNameSearch.Text;
+
+
+
+            for (int i = 0; i < myConferences.Count; i++)
+            {
+
+
+
+                if ((myConferences[i].GroupName) == txtNameSearch.Text)
+                    position4 = i;
+
+                lblNameOutput.Text += $"{myConferences[position4].Display()}";
+            }
+            txtNameSearch.Text = "";
         }
 
         //if (begin <= start && start <= End) Room R1 = (Room)ConvertToInt32(TxtRoom.Text)
