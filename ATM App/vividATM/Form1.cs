@@ -18,11 +18,11 @@ namespace Lab3
         public Form1()
 
         { 
-            myAccounts.Add(new Account("12345", "111", "Mr. Orange", 100.00m));
-            myAccounts.Add(new Account("22345", "222", "Mr. White", 200.00m));
-            myAccounts.Add(new Account("32345", "333", "Mr. Pink", 300.00m));
-            myAccounts.Add(new Account("42345", "444", "Mr. Black", 400.00m));
-            myAccounts.Add(new Account("52345", "555", "Mr. Blue", 500.00m));
+            myAccounts.Add(new Account("12345", "1111", "Mr. Orange", 100.00m));
+            myAccounts.Add(new Account("22345", "2222", "Mr. White", 200.00m));
+            myAccounts.Add(new Account("32345", "3333", "Mr. Pink", 300.00m));
+            myAccounts.Add(new Account("42345", "4444", "Mr. Black", 400.00m));
+            myAccounts.Add(new Account("52345", "5555", "Mr. Blue", 500.00m));
            // decimal deposit = Convert.ToInt32(txtDeposit.Text);
            // decimal withdraw = Convert.ToInt32(txtWithdraw.Text);
 

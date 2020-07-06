@@ -48,7 +48,7 @@
             // btnLogin
             // 
             this.btnLogin.Location = new System.Drawing.Point(260, 175);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(112, 52);
             this.btnLogin.TabIndex = 0;
@@ -59,7 +59,7 @@
             // txtAccount
             // 
             this.txtAccount.Location = new System.Drawing.Point(127, 157);
-            this.txtAccount.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAccount.Margin = new System.Windows.Forms.Padding(4);
             this.txtAccount.Name = "txtAccount";
             this.txtAccount.Size = new System.Drawing.Size(124, 26);
             this.txtAccount.TabIndex = 1;
@@ -67,7 +67,7 @@
             // txtPin
             // 
             this.txtPin.Location = new System.Drawing.Point(128, 220);
-            this.txtPin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPin.Margin = new System.Windows.Forms.Padding(4);
             this.txtPin.Name = "txtPin";
             this.txtPin.Size = new System.Drawing.Size(124, 26);
             this.txtPin.TabIndex = 2;
@@ -115,7 +115,7 @@
             // txtDeposit
             // 
             this.txtDeposit.Location = new System.Drawing.Point(56, 390);
-            this.txtDeposit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDeposit.Margin = new System.Windows.Forms.Padding(4);
             this.txtDeposit.Name = "txtDeposit";
             this.txtDeposit.Size = new System.Drawing.Size(195, 26);
             this.txtDeposit.TabIndex = 7;
@@ -124,7 +124,7 @@
             // txtWithdraw
             // 
             this.txtWithdraw.Location = new System.Drawing.Point(56, 471);
-            this.txtWithdraw.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtWithdraw.Margin = new System.Windows.Forms.Padding(4);
             this.txtWithdraw.Name = "txtWithdraw";
             this.txtWithdraw.Size = new System.Drawing.Size(195, 26);
             this.txtWithdraw.TabIndex = 8;
@@ -133,7 +133,7 @@
             // btnDeposit
             // 
             this.btnDeposit.Location = new System.Drawing.Point(260, 372);
-            this.btnDeposit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDeposit.Margin = new System.Windows.Forms.Padding(4);
             this.btnDeposit.Name = "btnDeposit";
             this.btnDeposit.Size = new System.Drawing.Size(112, 45);
             this.btnDeposit.TabIndex = 9;
@@ -145,7 +145,7 @@
             // btnWithdraw
             // 
             this.btnWithdraw.Location = new System.Drawing.Point(260, 455);
-            this.btnWithdraw.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnWithdraw.Margin = new System.Windows.Forms.Padding(4);
             this.btnWithdraw.Name = "btnWithdraw";
             this.btnWithdraw.Size = new System.Drawing.Size(112, 44);
             this.btnWithdraw.TabIndex = 10;
@@ -179,7 +179,7 @@
             // btnLogout
             // 
             this.btnLogout.Location = new System.Drawing.Point(398, 390);
-            this.btnLogout.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLogout.Margin = new System.Windows.Forms.Padding(4);
             this.btnLogout.Name = "btnLogout";
             this.btnLogout.Size = new System.Drawing.Size(94, 61);
             this.btnLogout.TabIndex = 13;
@@ -219,7 +219,7 @@
             this.Controls.Add(this.txtAccount);
             this.Controls.Add(this.btnLogin);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Account";
             this.Load += new System.EventHandler(this.Form1_Load);

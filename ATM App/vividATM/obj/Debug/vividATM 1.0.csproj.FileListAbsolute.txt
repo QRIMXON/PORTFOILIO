@@ -7,3 +7,12 @@ C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12\vividATM\obj\Debug\Lab3.P
 C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12\vividATM\obj\Debug\vividATM 1.0.csproj.GenerateResource.cache
 C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12\vividATM\obj\Debug\Lab3.exe
 C:\Users\qrimx\Desktop\PORTFOILIO\CSharpDirectory\CH12\vividATM\obj\Debug\Lab3.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\bin\Debug\Lab3.exe.config
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\bin\Debug\Lab3.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\bin\Debug\Lab3.pdb
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\vividATM 1.0.csprojAssemblyReference.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\Lab3.Form1.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\vividATM 1.0.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\Lab3.exe
+C:\Users\qrimx\Desktop\PORTFOILIO\ATM App\vividATM\obj\Debug\Lab3.pdb
